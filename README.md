@@ -8,7 +8,7 @@ It's my sololearn page: [LINK](https://www.sololearn.com/profile/19970244)
 
 for run in your system:
 ```
-python calculator.py
+>>>path/ python calculator.py
 ```
 
 - [x] can do math opration.
