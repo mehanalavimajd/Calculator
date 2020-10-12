@@ -4,7 +4,11 @@ It's my sololearn page: [LINK](https://www.sololearn.com/profile/19970244)
 ##### date : **2020/octeber/2**
 - have to input.
 - can do math operation.
-- input to exit.
+- input for exit.
+what is 'input for exit'?
+```python
+
+```
 
 for run in your system:
 ```
